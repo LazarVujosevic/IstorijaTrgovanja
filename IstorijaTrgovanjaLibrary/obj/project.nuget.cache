@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s0LqXdlxyfQv1R4DBsyWnss3gr9JnqjrDw3en/w2/xW0aC57R1zrC0b3N1bIeQ15HoxQNsGMfdymdsVKfgQ4vg==",
+  "dgSpecHash": "5hB7fUXgx6r3yxCm50uMsG96k+xHWu2SzjsZTcEoDpT5bKSTar94m7FhcvaOEsh0HUTJ9O4AoS/7aYlP3MmA+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lazar\\Desktop\\Istorija trgovanja\\IstorijaTrgovanja\\IstorijaTrgovanjaLibrary\\IstorijaTrgovanjaLibrary.csproj",
+  "projectFilePath": "D:\\projekti\\IstorijaTrgovanja\\IstorijaTrgovanjaLibrary\\IstorijaTrgovanjaLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lazar\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Lazar\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

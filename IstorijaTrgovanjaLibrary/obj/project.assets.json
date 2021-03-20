@@ -3482,11 +3482,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lazar\\Desktop\\Istorija trgovanja\\IstorijaTrgovanja\\IstorijaTrgovanjaLibrary\\IstorijaTrgovanjaLibrary.csproj",
+      "projectUniqueName": "D:\\projekti\\IstorijaTrgovanja\\IstorijaTrgovanjaLibrary\\IstorijaTrgovanjaLibrary.csproj",
       "projectName": "IstorijaTrgovanjaLibrary",
-      "projectPath": "C:\\Users\\Lazar\\Desktop\\Istorija trgovanja\\IstorijaTrgovanja\\IstorijaTrgovanjaLibrary\\IstorijaTrgovanjaLibrary.csproj",
+      "projectPath": "D:\\projekti\\IstorijaTrgovanja\\IstorijaTrgovanjaLibrary\\IstorijaTrgovanjaLibrary.csproj",
       "packagesPath": "C:\\Users\\Lazar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lazar\\Desktop\\Istorija trgovanja\\IstorijaTrgovanja\\IstorijaTrgovanjaLibrary\\obj\\",
+      "outputPath": "D:\\projekti\\IstorijaTrgovanja\\IstorijaTrgovanjaLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lazar\\AppData\\Roaming\\NuGet\\NuGet.Config",

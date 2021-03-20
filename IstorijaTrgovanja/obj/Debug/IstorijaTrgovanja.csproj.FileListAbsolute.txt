@@ -36,3 +36,41 @@ C:\Users\Lazar\Desktop\Istorija trgovanja\IstorijaTrgovanja\IstorijaTrgovanja\bi
 C:\Users\Lazar\Desktop\Istorija trgovanja\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Lazar\Desktop\Istorija trgovanja\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Lazar\Desktop\Istorija trgovanja\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\IstorijaTrgovanja.csproj.CopyComplete
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\IstorijaTrgovanja.exe.config
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\IstorijaTrgovanja.exe
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\IstorijaTrgovanja.pdb
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\CsvHelper.dll
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\IstorijaTrgovanjaLibrary.dll
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\Newtonsoft.Json.dll
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Buffers.dll
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Memory.dll
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Net.Http.Formatting.dll
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Numerics.Vectors.dll
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\IstorijaTrgovanjaLibrary.pdb
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\CsvHelper.xml
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\Newtonsoft.Json.xml
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Buffers.xml
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Memory.xml
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Net.Http.Formatting.xml
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Numerics.Vectors.xml
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\IstorijaTrgovanja.csprojAssemblyReference.cache
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\MainWindow.g.cs
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\App.g.cs
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\IstorijaTrgovanja_MarkupCompile.cache
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\IstorijaTrgovanja_MarkupCompile.lref
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\MainWindow.baml
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\IstorijaTrgovanja.g.resources
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\IstorijaTrgovanja.Properties.Resources.resources
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\IstorijaTrgovanja.csproj.GenerateResource.cache
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\IstorijaTrgovanja.csproj.CoreCompileInputs.cache
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\IstorijaTrgovanja.csproj.CopyComplete
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\IstorijaTrgovanja.exe
+D:\projekti\IstorijaTrgovanja\IstorijaTrgovanja\obj\Debug\IstorijaTrgovanja.pdb

@@ -34,14 +34,5 @@ namespace IstorijaTrgovanja
         {
             DataGrid1.Items.Refresh();
         }
-
-        public void SetGridStatus(bool isEnabled = true)
-        {
-            //DataGrid1.IsEnabled = isEnabled;
-            //TraziButton.IsEnabled = isEnabled;
-            //SifraTextBox.IsEnabled = isEnabled;
-            //BusyIndicatorLabel.Visibility = !isEnabled ? Visibility.Visible : Visibility.Hidden;
-            //StopSearchButton.Visibility = !isEnabled ? Visibility.Visible : Visibility.Hidden;            
-        }
     }
 }
